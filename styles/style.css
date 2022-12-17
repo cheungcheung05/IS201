@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: white;
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+}
+a{
+    color:black
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.resumelistheading{
+    font-weight: bold;
+    font-style: normal;
+}
+.homebg{
+    background-image: url(../Images/utah.jpeg);
+    background-position: top ;
+    background-size: 1500px 1500px;
+    background-repeat: no-repeat;
+
+}
